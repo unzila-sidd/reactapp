@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
     <Dinner dishname="yogurt" sweetdish="mithai"/>
-    <Table Number="5"/>
+    <Table Number="8"/>
     </div>
       );
 }
